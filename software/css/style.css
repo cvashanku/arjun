@@ -1,0 +1,148 @@
+*{
+  padding:0px;
+  margin:0px auto;
+}
+a:hover{
+  text-decoration:none;
+}
+.my-buttons{
+	border-radius:15px;
+}
+.color-808080{
+	color:#808080!important;
+}
+/******************************header-navbar-start******************************************/
+
+/******************************header-navbar-end******************************************/
+/******************************innovation-section-start******************************************/
+.innovation-heading{
+	font-weight:700;	
+}
+/******************************innovation-section-end******************************************/
+/******************************solution-section-start******************************************/
+
+
+/******************************solution-section-end******************************************/
+/******************************service-section-start******************************************/
+.services-section-inner{
+	height:;
+	background:;
+	border-radius:20px;
+	background-image: linear-gradient(to right, #6e13ab, #ab4313);
+}
+.services-heading{
+	color:#ffffff;
+	
+}
+.services-left{
+	padding-left:150px!important;
+}
+.solution-heading{
+	font-weight:700;
+}
+.solution-section button{
+	border-radius:15px;
+}
+.services-content{
+	color:#ffffff;
+}
+/******************************service-section-end******************************************/
+/******************************protfolio-section-start******************************************/
+.portfolio-top-left{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+	border-radius:20px;
+}
+.portfolio-top-left p{
+	font-size:10px;
+}
+.portfolio-bottom p{
+	font-size:10px;
+}
+.portfolio-box{
+	background-color:#808080;
+	border-radius:20px;	
+	height:200px;
+	margin-top:20px;
+}
+.portfolio-bottom{
+	 height:;
+	 box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+	 border-radius:20px;
+     padding:3px 15px;	 
+}
+/******************************portfolio-section-end******************************************/
+/********************************aboutus-section-start******************************************/
+.aboutus-col{
+	box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+	border-radius:15px;
+	padding-bottom:50px;
+}
+.aboutus-section button{
+	border-radius: 50%;
+	float:left;
+	background-color: #808080;
+    border: none;
+    color:#808080 ;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 50px 25px;
+  cursor: pointer;
+}
+.aboutus-section{
+	padding-bottom:100px;
+}
+/******************************aboutus-section-end******************************************/
+/******************************news-section-start******************************************/
+.news-section-left{
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+	border-radius:15px;
+}
+.news-section button{
+	border-radius: 50%;
+	float:left;
+	background-color: #808080;
+    border: none;
+    color:#808080 ;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.news-section i{
+	padding-left:;
+	padding-top:40px;
+}
+.news-section-right{
+	 background-color:#808080;
+	 border-radius:20px;
+     margin-left:13px;	 
+}
+.news-section{
+	margin-bottom:100px;
+}
+/******************************news-section-end******************************************/
+/******************************business-section-start******************************************/
+.business-section{
+	background-image: linear-gradient(to right, #6e13ab, #ab4313);
+}
+.business-section h1{
+	color:white;
+}
+.business-section button{
+	margin-top:40px;
+	padding:10px 20px;
+	border-radius:15px
+}
+/******************************busines-section-end******************************************/
+/******************************footer-section-start******************************************/
+.footer{
+	padding-top:130px;
+	padding-bottom:130px;
+	padding-left:20px;
+}
+/******************************footer-section-end******************************************/
